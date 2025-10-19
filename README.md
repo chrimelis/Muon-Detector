@@ -19,7 +19,7 @@ The polar axis is perpendicular to both sheets of the detector and points downwa
 ### Theory vs Experiment
 Orange Curves: Theory\
 Blue Histograms: Experiment\
-=> Perfect Agreement!
+$\implies$ Perfect Agreement!
 ![Alt text](/images/d01_theta.png)\
 ![Alt text](/images/d01_phi.png)\
 ![Alt text](/images/d01_x.png)
