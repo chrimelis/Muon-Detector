@@ -16,13 +16,6 @@ Each muon's trajectory is modelled as a straight line. Muons are generated on th
 The polar axis is perpendicular to both sheets of the detector and points downwards (from top to bottom). Then $\theta$ is just the angle between this axis and the velocity vector of the muon.
 
 ## Monte Carlo Simulation Examples
-### Theory vs Experiment
-Orange Curves: Theory\
-Blue Histograms: Experiment\
-$\implies$ Perfect Agreement!
-![Alt text](/images/d01_theta.png)\
-![Alt text](/images/d01_phi.png)\
-![Alt text](/images/d01_x.png)
 
 ### 2-D Muon Plots
 Positions of initial (left side) and detected muons (right side)
@@ -34,4 +27,10 @@ A typical 3-D representation with fewer sample points looks as follows
 ![Alt text](/images/d01_3D.png)\
 ![Alt text](/images/d1_3D.png)\
 Again fewer muons are detected when the distance between the plates becomes larger.
-
+### Theory vs Experiment
+Orange Curves: Theory\
+Blue Histogram: Experiment\
+$\implies$ Perfect Agreement!
+![Alt text](/images/d01_theta.png)\
+![Alt text](/images/d01_phi.png)\
+![Alt text](/images/d01_x.png)
