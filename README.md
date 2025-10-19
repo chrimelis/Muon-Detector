@@ -1,6 +1,10 @@
 # Muon-Detector
 Scintillation Detector for Cosmic Muons, **Monte Carlo Simulations**, Derivations of PDF Distributions through rigorous mathematical analysis
 
+## Quick Instructions
+The codebase includes several Python files which contain some documentation. I should highlight here that to run a Monte Carlo simulation there are two options available
+1. Run independently the file `full_muon_detector.py`. This will use different random events on every run. 
+2. Run first the `muon_generator.py` which will store the random events in a `.npz` file and then run `muon_simulator.py` to get the Monte Carlo simulation results for the specific randomly sampled data stored in the `.npz` file.
 ## Detector Characteristics
 
 ### Geometry
