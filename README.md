@@ -17,7 +17,9 @@ The polar axis is perpendicular to both sheets of the detector and points downwa
 
 ## Monte Carlo Simulation Examples
 ### Theory vs Experiment
-Perfect Agreement!
+Orange Curves: Theory\
+Blue Histogram: Experiment\
+=> Perfect Agreement!
 ![Alt text](/images/d01_theta.png)\
 ![Alt text](/images/d01_phi.png)\
 ![Alt text](/images/d01_x.png)
